@@ -1,5 +1,4 @@
 # Awesome Data Preservation ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-(https://github.com/sindresorhus/awesome)
 
 A curated list of data preservation resources, inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
@@ -10,10 +9,10 @@ Please feel free to [pull requests](https://github.com/arunk2/awesome-data-prese
 
 
 ## Table of Contents
-- [Papers] (#papers)
-- [Conferences] (#conferences)
-- [Active Communities] (#activecommunities)
-- [Books] (#books)
+- [Papers](#papers)
+- [Conferences](#conferences)
+- [Active Communities](#activecommunities)
+- [Books](#books)
 - [Software](#software)
 
 
