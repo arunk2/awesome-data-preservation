@@ -19,22 +19,22 @@ Please feel free to [pull requests](https://github.com/arunk2/awesome-data-prese
 ## PapersReports
 - Digital Preservation Handbook, 2nd Edition. [PDF](http://handbook.dpconline.org/)
 
-- Ensuring the Longevity of Digital Documents. Author: Rothenberg, Jeff
-  Published @ January 1995 edition of Scientific American (Vol. 272, Number 1, pp. 42-7). [PDF](https://www.clir.org/pubs/archives/ensuring.pdf)
+- Ensuring the Longevity of Digital Documents. **Author:** Rothenberg, Jeff. 
+  `Published @ January 1995 edition of Scientific American (Vol. 272, Number 1, pp. 42-7)` [PDF](https://www.clir.org/pubs/archives/ensuring.pdf)
 
-- Avoiding Technological Quicksand: Finding a Viable Technical Foundation for Digital Preservation. Author: Rothenberg, Jeff
-  Published report as ISBN 1-887334-63-7 in 1999. [PDF](https://www.clir.org/pubs/reports/rothenberg/pub77.pdf)
+- Avoiding Technological Quicksand: Finding a Viable Technical Foundation for Digital Preservation. **Author:** Rothenberg, Jeff `Published report as ISBN 1-887334-63-7 in 1999` [PDF](https://www.clir.org/pubs/reports/rothenberg/pub77.pdf)
 
-- Long Term Preservation of Digital Information. Author: Raymond A. Lorie, IBM Almaden Research Center 
-  Published @ JCDL '01 Proceedings of the 1st ACM/IEEE-CS joint conference on Digital libraries. Pages 346-352 - [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.539.2669&rep=rep1&type=pdf)
+- Long Term Preservation of Digital Information. **Author:** Raymond A. Lorie, IBM Almaden Research Center 
+  `Published @ JCDL '01 Proceedings of the 1st ACM/IEEE-CS joint conference on Digital libraries. Pages 346-352` [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.539.2669&rep=rep1&type=pdf)
 
-- UVC: A Universal Virtual Computer for Long-term Preservation of Digital Information. Author: Raymond A. Lorie; Raymond J. van Diessen
-  Published as IBM Researc Report: RJ10338 in 2005. [PDF](http://domino.research.ibm.com/library/cyberdig.nsf/papers/10229B6DE0D054C585256FA900681995/$File/rj10338.pdf)
+- UVC: A Universal Virtual Computer for Long-term Preservation of Digital Information. **Author:** Raymond A. Lorie; Raymond J. van Diessen
+  `Published as IBM Researc Report: RJ10338 in 2005` [PDF](http://domino.research.ibm.com/library/cyberdig.nsf/papers/10229B6DE0D054C585256FA900681995/$File/rj10338.pdf)
 
 - Permanent Web Publishing - LOCKSS (Lots Of Copies Keep Stuff Safe). Authors: David S.H. Rosenthal and Vicky Reich
-  In Proceedings of the FREENIX Track: 2000 USENIX Annual Technical Conference. June 18-23, 2000, San Diego, California. pp. 129-140. [PDF](https://lockss.org/locksswiki/files/Freenix2000.pdf)
+  `In Proceedings of the FREENIX Track: 2000 USENIX Annual Technical Conference. June 18-23, 2000, San Diego, California. pp. 129-140` [PDF](https://lockss.org/locksswiki/files/Freenix2000.pdf)
 
-- REFERENCE MODEL FOR AN OPEN ARCHIVAL INFORMATION SYSTEM (OAIS). RECOMMENDED PRACTICE, MAGENTA BOOK, June 2012. [PDF](https://public.ccsds.org/pubs/650x0m2.pdf)
+- REFERENCE MODEL FOR AN OPEN ARCHIVAL INFORMATION SYSTEM (OAIS). 
+  `The Consultative Committee for Space Data Systems (CCSDS) RECOMMENDED PRACTICE, MAGENTA BOOK, June 2012` [PDF](https://public.ccsds.org/pubs/650x0m2.pdf)
 
 
 ## Conferences
