@@ -27,10 +27,10 @@ Please feel free to [pull requests](https://github.com/arunk2/awesome-data-prese
 - Long Term Preservation of Digital Information. **Author:** Raymond A. Lorie, IBM Almaden Research Center 
   `Published @ JCDL '01 Proceedings of the 1st ACM/IEEE-CS joint conference on Digital libraries. Pages 346-352` [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.539.2669&rep=rep1&type=pdf)
 
-- UVC: A Universal Virtual Computer for Long-term Preservation of Digital Information. **Author:** Raymond A. Lorie; Raymond J. van Diessen
+- UVC: A Universal Virtual Computer for Long-term Preservation of Digital Information. **Authors:** Raymond A. Lorie; Raymond J. van Diessen
   `Published as IBM Researc Report: RJ10338 in 2005` [PDF](http://domino.research.ibm.com/library/cyberdig.nsf/papers/10229B6DE0D054C585256FA900681995/$File/rj10338.pdf)
 
-- Permanent Web Publishing - LOCKSS (Lots Of Copies Keep Stuff Safe). Authors: David S.H. Rosenthal and Vicky Reich
+- Permanent Web Publishing - LOCKSS (Lots Of Copies Keep Stuff Safe). **Authors:** David S.H. Rosenthal and Vicky Reich
   `In Proceedings of the FREENIX Track: 2000 USENIX Annual Technical Conference. June 18-23, 2000, San Diego, California. pp. 129-140` [PDF](https://lockss.org/locksswiki/files/Freenix2000.pdf)
 
 - REFERENCE MODEL FOR AN OPEN ARCHIVAL INFORMATION SYSTEM (OAIS). 
@@ -78,6 +78,9 @@ Please feel free to [pull requests](https://github.com/arunk2/awesome-data-prese
 
 
 ## Software Tools
+
+### Archivematica
+Archivematica is a web- and standards-based, open-source application which allows your institution to preserve long-term access to trustworthy, authentic and reliable digital content [more...](https://www.archivematica.org/en/)
 
 ### POWRR
 Preserving digital Objects With Restricted Resources (Digital POWRR) Project has endeavored to make digital preservation more accessible to a wider range of professionals [more...](http://digitalpowrr.niu.edu/)
