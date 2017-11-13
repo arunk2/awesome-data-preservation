@@ -33,6 +33,9 @@ Please feel free to [pull requests](https://github.com/arunk2/awesome-data-prese
 - Permanent Web Publishing - LOCKSS (Lots Of Copies Keep Stuff Safe). **Authors:** David S.H. Rosenthal and Vicky Reich
   `In Proceedings of the FREENIX Track: 2000 USENIX Annual Technical Conference. June 18-23, 2000, San Diego, California. pp. 129-140` [PDF](https://lockss.org/locksswiki/files/Freenix2000.pdf)
 
+- Emulation for Digital Preservation in Practice: The Results. **Authors:** Jeffrey van der Hoeven and Bram Lohman 
+  `In Proceedings of the International Journal of Digital Curation. Dec 2007` [PDF](http://www.ijdc.net/index.php/ijdc/article/view/50/35)
+ 
 - REFERENCE MODEL FOR AN OPEN ARCHIVAL INFORMATION SYSTEM (OAIS). 
   `The Consultative Committee for Space Data Systems (CCSDS) RECOMMENDED PRACTICE, MAGENTA BOOK, June 2012` [PDF](https://public.ccsds.org/pubs/650x0m2.pdf)
 
