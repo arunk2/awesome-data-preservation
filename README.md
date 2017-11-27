@@ -13,7 +13,7 @@ Please feel free to [pull requests](https://github.com/arunk2/awesome-data-prese
 - [Conferences](#conferences)
 - [Active Communities](#activecommunities)
 - [Books](#books)
-- [Software](#software)
+- [Software](#softwaretools)
 
 
 ## PapersReports
@@ -80,7 +80,7 @@ Please feel free to [pull requests](https://github.com/arunk2/awesome-data-prese
 - [Developing and Maintaining Practical Archives: A How-To-Do-It Manual (How-To-Do-It Manuals for Libraries) 2nd Edition. Author: Gregory S. Hunter](https://www.amazon.com/Developing-Maintaining-Practical-Archives-How/dp/1555704670/ref=pd_sim_14_4?_encoding=UTF8&psc=1&refRID=F46GJQFNKX2F95MSKV74)
 
 
-## Software Tools
+## SoftwareTools
 
 ### Archivematica
 Archivematica is a web- and standards-based, open-source application which allows your institution to preserve long-term access to trustworthy, authentic and reliable digital content [more...](https://www.archivematica.org/en/)
@@ -99,3 +99,13 @@ About Jpylyzer is a JP2 (JPEG 2000 Part 1) image validator and properties extrac
 
 ### xcorrSound
 Improve Your Digital Audio Recordings What is xcorrSound? xcorrSound consists of four tools: overlap-analysis detects overlap in two audio files waveform-compare compares two audio files and outputs the similarity sound-match detects occurrences of a smaller audio file (e.g. a jingle) within a larger audio file or an index of audio files sound-index builds an index [more...](http://openpreservation.org/technology/products/xcorrsound/)
+
+### DROID
+DROID is a software tool developed by The National Archives to perform automated batch identification of file formats. Developed by its Digital Preservation Department as part of its broader digital preservation activities, DROID is designed to meet the fundamental requirement of any digital repository to be able to identify the precise format of all stored digital objects, and to link that identification to a central registry of technical information about that format and its dependencies [more...](https://github.com/digital-preservation/droid)
+
+### CSV Validator
+A Validation Tool and APIs for validating CSV (Comma Separated Value) files by using CSV Schema [more...](https://github.com/digital-preservation/csv-validator)
+
+### UTF-8 Validator
+A UTF-8 Validation Tool which may be used as either a command line tool or as a library embedded in your own program [more](https://github.com/digital-preservation/utf8-validator)
+
