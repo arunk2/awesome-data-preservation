@@ -107,5 +107,10 @@ DROID is a software tool developed by The National Archives to perform automated
 A Validation Tool and APIs for validating CSV (Comma Separated Value) files by using CSV Schema [more...](https://github.com/digital-preservation/csv-validator)
 
 ### UTF-8 Validator
-A UTF-8 Validation Tool which may be used as either a command line tool or as a library embedded in your own program [more](https://github.com/digital-preservation/utf8-validator)
+A UTF-8 Validation Tool which may be used as either a command line tool or as a library embedded in your own program [more...](https://github.com/digital-preservation/utf8-validator)
 
+### format-corpus
+An openly-licensed corpus of small example files, covering a wide range of formats and creation tools [more...](https://github.com/openpreserve/format-corpus)
+
+### Bitwiser
+This is a small suite of tools used to perform bitwise analysis of data and processes related to digital preservation [more...](https://github.com/openpreserve/bitwiser)
